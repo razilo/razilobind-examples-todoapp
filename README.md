@@ -1,13 +1,10 @@
 # raziloBind - Examples - Todo App
 
-A basic hello world app from the raziloBind website
+A basic todo app from the raziloBind website
 
 ## What does this do?
 
-Well it says hellow world..... and lets you click a button, but more than this, it shows you how you can structure your apps, by creating an ES6 class as a bindable model and bind it to the dom in the class constructor, simple, clean and very cool.
-
-I have not offered this as an npm module, as really it is the code you should be creating to pull your npm deps into, so download the zip if you want it, or just look at it, cause thats nice too.
-
+Doesn't do a great deal, but it shows you how to set out a projxt, how to use loops, and also helps you to get to grips with phantom properties.
 
 ## What Next?
 
